@@ -112,6 +112,7 @@ public class AdminSuccess extends JFrame {
 					.addComponent(btnLogout, GroupLayout.PREFERRED_SIZE, 49, GroupLayout.PREFERRED_SIZE)
 					.addContainerGap(21, Short.MAX_VALUE))
 		);
+                System.out.println("hello pondy");
 		contentPane.setLayout(gl_contentPane);
 	}
 }
